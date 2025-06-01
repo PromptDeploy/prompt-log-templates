@@ -1,8 +1,10 @@
-### How to Use This Prompt Log
+# Basic Prompt Log Template
 
 This log helps you track prompts that actually work — and learn from the ones that don’t.
 
 You don’t need to log every prompt. Just capture the **ones that saved time, solved a real problem, or taught you something useful**.
+
+### How to Use This Prompt Log
 
 Start with:
 
