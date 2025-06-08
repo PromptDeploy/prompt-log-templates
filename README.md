@@ -42,7 +42,7 @@ More templates will be added to this repo over time.
 ## 🧭 Related Resources
 
 - [Prompt-to-Production Checklist](https://github.com/PromptDeploy/prompt-to-production-checklist)
-- [Deep Dive: From Prompt to Production](https://prompt-deploy.beehiiv.com/p/from-prompt-to-production)
+- [Deep Dive: From Prompt to Production](https://prompt-deploy.beehiiv.com/p/from-prompt-to-production-a-developer-workflow-for-building-with-ai)
 - [AI-Native Developer Scorecard](https://tally.so/r/nWB0gQ)
 
 ---
